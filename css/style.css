@@ -1,0 +1,68 @@
+body{
+    font-family: 'Finlandica', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+#first{
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+    display: flex;
+    margin: -10px;
+}
+#first p{
+    font-weight: 500;
+    font-size: 18px;
+}
+.rishad_islam{
+    color: orange;
+}
+.half{
+    width: 40%;
+    padding: 120px;
+}
+.hire_me{
+    text-decoration: none;
+    font-size: 20px;
+    background-image: linear-gradient(orange,red);
+    color: white;
+    padding: 20px 40px;
+    margin: 20px;
+    border-radius: 10px;
+}
+#second{
+    background-image: url(../images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-right: -8px;
+    display: flex;
+}
+h3{
+    color: orange;
+}
+#experience{
+    background-image: url(../images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position-y: 200px;
+    margin-left: -10px;
+}
+.experience_main{
+    display: flex;
+}
+.common{
+    padding: 0px 80px 40px;
+    box-shadow: 5px 5px 50px black;
+    margin: 60px;
+    border-radius: 5px;
+}
+
+.experience01{
+    border-left: 7px solid tomato;
+}
+.experience02{
+    border-left: 7px solid blue;
+}
+footer{
+    text-align: center;
+}
